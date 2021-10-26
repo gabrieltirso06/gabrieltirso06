@@ -1,4 +1,4 @@
-### Eaêêê!!! Qual a boa?? Sou Gabriel Tirso!
+### Olá!! Me chamo Gabriel Tirso!
 ##
   <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieltirso06&show_icons=true&icon_color=00e8ff&border_color=00e8ff&title_color=00e8ff&theme=dark&locale=pt-br&count_private=true"/>
